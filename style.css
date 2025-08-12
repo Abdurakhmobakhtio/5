@@ -1,0 +1,28 @@
+table,tr,th,td{
+ border: 5px solid black;
+ text-align: center;
+ font-size: 30px;
+ 
+}
+
+table{
+    width: 100%;
+    height: 500px;
+}
+
+th{
+    background-color: green;
+
+}
+
+td{
+    background-color: gray;
+}
+.s{
+    background-color: red;
+}
+
+caption{
+    background-color: aqua;
+    te
+}
